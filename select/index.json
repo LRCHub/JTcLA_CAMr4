@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Slow Dance",
+  "base_artist": "Clairo",
+  "createdAt": "2025-12-30T05:07:08.910651Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Slow Dance in a Parking Lot",
+      "artist": "Jordan Davis",
+      "has_synced": true,
+      "path": "select/01_Slow_Dance_in_a_Parking_Lot_Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Slow Dance (feat. Young Chop)",
+      "artist": "Chief Keef feat. Young Chop",
+      "has_synced": true,
+      "path": "select/02_Slow_Dance_(feat._Young_Chop)_Chief_Keef_feat._Young_Chop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slow Dance (Feat. Young Chop)",
+      "artist": "Chief Keef",
+      "has_synced": true,
+      "path": "select/03_Slow_Dance_(Feat._Young_Chop)_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Slow Dance",
+      "artist": "Duke Dumont",
+      "has_synced": true,
+      "path": "select/04_Slow_Dance_Duke_Dumont.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Long Slow Dance",
+      "artist": "The Fresh & Onlys",
+      "has_synced": true,
+      "path": "select/05_Long_Slow_Dance_The_Fresh_&_Onlys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Slow Dance (Interlude)",
+      "artist": "Father",
+      "has_synced": true,
+      "path": "select/06_Slow_Dance_(Interlude)_Father.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slow Dance",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/07_Slow_Dance_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slow Dance 2",
+      "artist": "Jeremy Jay",
+      "has_synced": false,
+      "path": "select/08_Slow_Dance_2_Jeremy_Jay.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slow Dance",
+      "artist": "Saint Motel",
+      "has_synced": true,
+      "path": "select/09_Slow_Dance_Saint_Motel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Slow Dance",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/10_Slow_Dance_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Chance for a Slow Dance",
+      "artist": "Fugazi",
+      "has_synced": false,
+      "path": "select/11_Last_Chance_for_a_Slow_Dance_Fugazi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slow Dance",
+      "artist": "Unwritten Law",
+      "has_synced": true,
+      "path": "select/12_Slow_Dance_Unwritten_Law.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slow Dance",
+      "artist": "Svavar Knútur",
+      "has_synced": true,
+      "path": "select/13_Slow_Dance_Svavar_Knútur.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Slow Dance",
+      "artist": "Clairo",
+      "has_synced": false,
+      "path": "select/pl_01_Slow_Dance_Clairo.txt"
+    }
+  ]
+}
